@@ -33,7 +33,7 @@ public class SelectionSort {
 
         //int[] arr1 = {4, -7, 3, 2, -1, 9, 5, 6};
         /**
-         * Our sorting is from Right - Left That means the last index of our
+         * Our sorting is from Left - Right That means the last index of our
          * array has to decrease. The highest value in the array will be occupy
          * the last index sequentially
          */
